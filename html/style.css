@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
+
+body {
+    overflow: hidden;
+    display: hidden;
+    padding: 0;
+    margin: 0;
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+*::selection {
+    background-color: transparent;
+}
+
+p {
+    position: absolute;
+    left: 87.25%;
+    top: 85.85%;
+    color: white;
+}
+
+.fa-map-marker-alt, .fa-map-marker {
+    position: absolute;
+    font-size: x-large;
+    color: #ff4444;
+    text-shadow: 0 0 3px #000, 0 0 3px #000, 0 0 3px #000, 0 0 3px #000;
+    transition: font-size 0.25s;
+}
+
+.info-box {
+    display: none;
+    background: #222831e8;
+    border-radius: 3.5px;
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    width: 750%;
+    height: 100%;
+    text-align: center;
+    bottom: -5%;
+    left: 120%;
+    padding-top: 50%;
+    font-family: 'Tajawal', sans-serif !important;
+    z-index: 100;
+}
+
+.information {
+    position: absolute;
+    top: 73.25%;
+    left: 2.5%;
+    width: 15.5%;
+    height: 25%;
+    text-align: center;
+}
+
+#info {
+    left: 25%;
+    top: 25%;
+    color:rgba(20, 16, 16, 0.692);
+    font-family: 'Tajawal', sans-serif !important;
+    font-size: xx-large;
+    border-radius: 10px;
+    border-bottom: 10px;
+}
+
+.spawn-help h3 {
+    margin: 0;
+    font-size: 3vh;
+}
+
+.spawn-help {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin: 0 auto;
+    width: 14%;
+    background: #191e25;
+    text-align: center;
+    color: white;
+    font-size: 1.3vh;
+    padding: 1.5vh;
+    font-family: 'Tajawal', sans-serif !important;
+    border-top-right-radius: 4vh;
+}
+
+.spawn {
+    height: 3vh;
+    font-size: 1.2vh;
+    text-decoration: none;
+    background-color: #8fe077;
+    color: #222831;
+    border-radius: 1vh;
+    text-transform: uppercase;
+    border: none;
+    font-family: 'Tajawal', sans-serif !important;
+    padding: 0 2vh;
+}
+
+.lastspawn {
+    height: 3vh;
+    font-size: 1.2vh;
+    text-decoration: none;
+    background-color: #f2a365;
+    color: #222831;
+    border-radius: 1vh;
+    text-transform: uppercase;
+    border: none;
+    font-family: 'Tajawal', sans-serif !important;
+    padding: 0 2vh;
+}
+
+.spawn:hover, .lastspawn:hover {
+    opacity: 0.8;
+}
+
+
+#loc0 { /* السجن المركزي */
+    top: 33%;
+    left: 44.5%;
+}
+
+#loc1 { /* Sandy Shores */
+    top: 33.5%;
+    left: 38.2%;
+}
+
+#loc2 { /* Santa Monica Ãƒâ€žÃ‚Â°skelesi */
+    top: 73%;
+    left: 68.35%;
+}
+
+#loc3 { /* Diamond Casino */
+    top: 42.6%;
+    left: 60.5%;
+}
+
+#loc4 { /* Paleto Gas Stop */
+    top: 53%;
+    left: 20.2%;
+}
+
+#loc5 { /* Departman */
+    top: 48%;
+    left: 67%;
+}
+
+#loc6 { /* Galeri ve Çekişmişler */
+    top: 54%;
+    left: 67%;
+}
+
+#loc7 { /* Motel */
+    top: 48.5%;
+    left: 62%;
+}
+
+#loc8 { /* Motel */
+    top: 60.5%;
+    left: 62%;
+}
