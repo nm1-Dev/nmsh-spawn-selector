@@ -5,5 +5,4 @@ QBCore v.2 inspired From NoPixel 3.5
 
 ### [Official Nmsh Dev Discord Server](https://discord.gg/rfEs2VvaSd)
 
-# Script Preview
-![Hide](https://cdn.discordapp.com/attachments/979399476437458994/984759863915716630/unknown.png)
+https://cdn.discordapp.com/attachments/979399476437458994/984759863915716630/unknown.png
